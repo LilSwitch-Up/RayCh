@@ -1,0 +1,3 @@
+# RayCh
+# mining
+# Bitcoin
